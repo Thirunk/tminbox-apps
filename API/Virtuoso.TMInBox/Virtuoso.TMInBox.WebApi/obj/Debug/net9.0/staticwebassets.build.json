@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Sr6v+ytrDG311PnRHthWHu8wb+iH8H4vAL+S/YC3610=",
+  "Source": "Virtuoso.TMInBox.WebApi",
+  "BasePath": "_content/Virtuoso.TMInBox.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

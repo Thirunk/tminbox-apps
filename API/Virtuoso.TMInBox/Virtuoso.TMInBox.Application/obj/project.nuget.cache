@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yj/6JM5Qdtk=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\virtuoso.tminbox\\Virtuoso.TMInBox.Application\\Virtuoso.TMInBox.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ask4t\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\ask4t\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\ask4t\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.4\\microsoft.extensions.logging.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\ask4t\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\ask4t\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

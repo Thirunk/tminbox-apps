@@ -1,0 +1,15 @@
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\bin\Debug\net9.0\Virtuoso.TMInBox.Application.deps.json
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\bin\Debug\net9.0\Virtuoso.TMInBox.Application.dll
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\bin\Debug\net9.0\Virtuoso.TMInBox.Application.pdb
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\bin\Debug\net9.0\Virtuoso.TMInBox.Core.dll
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\bin\Debug\net9.0\Virtuoso.TMInBox.Core.pdb
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\obj\Debug\net9.0\Virtuoso.TMInBox.Application.csproj.AssemblyReference.cache
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\obj\Debug\net9.0\Virtuoso.TMInBox.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\obj\Debug\net9.0\Virtuoso.TMInBox.Application.AssemblyInfoInputs.cache
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\obj\Debug\net9.0\Virtuoso.TMInBox.Application.AssemblyInfo.cs
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\obj\Debug\net9.0\Virtuoso.TMInBox.Application.csproj.CoreCompileInputs.cache
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\obj\Debug\net9.0\Virtuoso.8E746B77.Up2Date
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\obj\Debug\net9.0\Virtuoso.TMInBox.Application.dll
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\obj\Debug\net9.0\refint\Virtuoso.TMInBox.Application.dll
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\obj\Debug\net9.0\Virtuoso.TMInBox.Application.pdb
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Application\obj\Debug\net9.0\ref\Virtuoso.TMInBox.Application.dll

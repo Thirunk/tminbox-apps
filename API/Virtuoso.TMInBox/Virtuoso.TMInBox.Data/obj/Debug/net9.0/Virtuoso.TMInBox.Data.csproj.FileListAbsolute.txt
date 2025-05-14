@@ -1,0 +1,11 @@
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Data\bin\Debug\net9.0\Virtuoso.TMInBox.Data.deps.json
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Data\bin\Debug\net9.0\Virtuoso.TMInBox.Data.dll
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Data\bin\Debug\net9.0\Virtuoso.TMInBox.Data.pdb
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Data\obj\Debug\net9.0\Virtuoso.TMInBox.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Data\obj\Debug\net9.0\Virtuoso.TMInBox.Data.AssemblyInfoInputs.cache
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Data\obj\Debug\net9.0\Virtuoso.TMInBox.Data.AssemblyInfo.cs
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Data\obj\Debug\net9.0\Virtuoso.TMInBox.Data.csproj.CoreCompileInputs.cache
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Data\obj\Debug\net9.0\Virtuoso.TMInBox.Data.dll
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Data\obj\Debug\net9.0\refint\Virtuoso.TMInBox.Data.dll
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Data\obj\Debug\net9.0\Virtuoso.TMInBox.Data.pdb
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Data\obj\Debug\net9.0\ref\Virtuoso.TMInBox.Data.dll

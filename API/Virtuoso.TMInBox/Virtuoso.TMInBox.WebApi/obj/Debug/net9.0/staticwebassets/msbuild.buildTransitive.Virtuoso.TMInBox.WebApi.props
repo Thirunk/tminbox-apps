@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Virtuoso.TMInBox.WebApi.props" />
+</Project>

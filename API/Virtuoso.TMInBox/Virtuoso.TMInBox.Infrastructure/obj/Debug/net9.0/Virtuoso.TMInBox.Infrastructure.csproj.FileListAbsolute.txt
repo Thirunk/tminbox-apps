@@ -1,0 +1,17 @@
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\bin\Debug\net9.0\Virtuoso.TMInBox.Infrastructure.deps.json
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\bin\Debug\net9.0\Virtuoso.TMInBox.Infrastructure.dll
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\bin\Debug\net9.0\Virtuoso.TMInBox.Infrastructure.pdb
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\bin\Debug\net9.0\Virtuoso.TMInBox.Application.dll
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\bin\Debug\net9.0\Virtuoso.TMInBox.Core.dll
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\bin\Debug\net9.0\Virtuoso.TMInBox.Application.pdb
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\bin\Debug\net9.0\Virtuoso.TMInBox.Core.pdb
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\obj\Debug\net9.0\Virtuoso.TMInBox.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\obj\Debug\net9.0\Virtuoso.TMInBox.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\obj\Debug\net9.0\Virtuoso.TMInBox.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\obj\Debug\net9.0\Virtuoso.TMInBox.Infrastructure.AssemblyInfo.cs
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\obj\Debug\net9.0\Virtuoso.TMInBox.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\obj\Debug\net9.0\Virtuoso.2A074778.Up2Date
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\obj\Debug\net9.0\Virtuoso.TMInBox.Infrastructure.dll
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\obj\Debug\net9.0\refint\Virtuoso.TMInBox.Infrastructure.dll
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\obj\Debug\net9.0\Virtuoso.TMInBox.Infrastructure.pdb
+D:\Projects\virtuoso.tminbox\Virtuoso.TMInBox.Infrastructure\obj\Debug\net9.0\ref\Virtuoso.TMInBox.Infrastructure.dll
